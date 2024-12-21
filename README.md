@@ -7,9 +7,8 @@ A cute React birthday card for a loved one.
 
 </br>
 
-<video controls>
-  <source src="demo-video.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/6cce28b2-8c55-4de3-9667-538854781466
+
 
 [Demo Video](http://www.youtube.com/watch?v=IceIVRIAOME)
 
