@@ -5,9 +5,13 @@ A cute React birthday card for a loved one.
 - Music that starts playing when the user opens the card
 - Toggle button to play/pause music
 
-<video width="100%" height="450" controls>
-  <source src="demo-video.mov" type="video/mp4">
+</br>
+
+<video controls>
+  <source src="demo-video.mp4" type="video/mp4">
 </video>
+
+</br>
 
 ```bash
 # Clone the repo
